@@ -30,6 +30,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+API/[Oo]bj/
+API/[Bb]in/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
